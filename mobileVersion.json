@@ -1,0 +1,8 @@
+{
+    "latest": 1,
+    "version": "1 Release",
+    "script_url": "https://storage.kittytools.org/mobile/KittyTools.lua",
+    "changes": [
+        "Первый релиз KittyTools для Mobile"
+    ]
+}
