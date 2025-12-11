@@ -1,0 +1,8 @@
+{
+    "latest": 2,
+    "version": "0.0.2 Release",
+    "script_url": "https://storage.kittytools.org/KittyTools.luac",
+    "changes": [
+        "KittyTools был привязан к инфраструктуре."
+    ]
+}
