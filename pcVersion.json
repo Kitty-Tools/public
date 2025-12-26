@@ -1,8 +1,8 @@
 {
-    "latest": 2,
-    "version": "0.0.2 Release",
-    "script_url": "https://storage.kittytools.org/KittyTools.luac",
+    "latest": 3,
+    "version": "0.0.3 Release",
+    "script_url": "https://storage.kittytools.org/KittyTools-PC/KittyTools.luac",
     "changes": [
-        "KittyTools был привязан к инфраструктуре."
+        "Исправлено перенаправление на некорректный домен"
     ]
 }
