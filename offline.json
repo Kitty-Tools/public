@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Запланированные тех.работы"
+		"status": true,
+		"info": "Миграция API до 20:00 по МСК"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Запланированные тех.работы"
+		"status": true,
+		"info": "Миграция API до 20:00 по МСК"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Запланированные тех.работы"
+		"status": true,
+		"info": "Миграция API до 20:00 по МСК"
 	}
 }
