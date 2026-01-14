@@ -1,9 +1,9 @@
 {
-    "latest": 6,
-    "version": "6 Release",
+    "latest": 7,
+    "version": "7 Release",
     "script_url": "https://storage.kittytools.org/KittyTools-Mobile/KittyTools_Mobile.luac",
     "changes": [
-        "Исправлен баг с слежкой за игроками",
-        "Улучшена безопасность передачи данных"
+        "Добавлен Arizona AI!",
+        "Исправлен баг с отправкой репорта на сервер"
     ]
 }
