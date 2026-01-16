@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Миграция API до 20:00 по МСК"
+		"status": true,
+		"info": "Проблема с серверами"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Миграция API до 20:00 по МСК"
+		"status": true,
+		"info": "Проблема с серверами"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Миграция API до 20:00 по МСК"
+		"status": true,
+		"info": "Проблема с серверами"
 	}
 }
