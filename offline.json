@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Проблема с серверами"
+		"status": true,
+		"info": "Проблема с серверами на стороне провайдера"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Проблема с серверами"
+		"status": true,
+		"info": "Проблема с серверами на стороне провайдера"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Проблема с серверами"
+		"status": true,
+		"info": "Проблема с серверами на стороне провайдера"
 	}
 }
