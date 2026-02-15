@@ -1,9 +1,10 @@
 {
-    "latest": 7,
-    "version": "7 Release",
+    "latest": 8,
+    "version": "8 Release",
     "script_url": "https://storage.kittytools.org/KittyTools-Mobile/KittyTools_Mobile.luac",
     "changes": [
-        "Добавлен Arizona AI!",
-        "Исправлен баг с отправкой репорта на сервер"
+        "Добавлен автоматический /pm при длинном ответе в репорт",
+        "Исправлен чекер организаций",
+        "Исправлен баг с /amember"
     ]
 }
