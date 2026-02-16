@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Я нищий - денег на оплату серверов нет."
 	},
 	"rodina_pc": {
-		"status": true,
+		"status": false,
 		"info": "Я нищий - денег на оплату серверов нет."
 	},
 	"arizona_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Я нищий - денег на оплату серверов нет."
 	}
 }
