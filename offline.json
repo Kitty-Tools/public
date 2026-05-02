@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Я забыл оплатить хостинг"
+		"status": true,
+		"info": "Проблема на стороне хостинга"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Я забыл оплатить хостинг"
+		"status": true,
+		"info": "Проблема на стороне хостинга"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Я забыл оплатить хостинг"
+		"status": true,
+		"info": "Проблема на стороне хостинга"
 	}
 }
