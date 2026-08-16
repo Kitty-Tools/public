@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Проблема на стороне хостинга"
+		"status": true,
+		"info": "Ксения не оплатила хостинг."
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Проблема на стороне хостинга"
+		"status": true,
+		"info": "Ксения не оплатила хостинг."
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Проблема на стороне хостинга"
+		"status": true,
+		"info": "Ксения не оплатила хостинг."
 	}
 }
