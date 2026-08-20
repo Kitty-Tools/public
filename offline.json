@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Проблема с авторизацией через ВК"
 	},
 	"rodina_pc": {
-		"status": true,
+		"status": false,
 		"info": "Проблема с авторизацией через ВК"
 	},
 	"arizona_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Проблема с авторизацией через ВК"
 	}
 }
