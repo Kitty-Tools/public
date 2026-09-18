@@ -1,0 +1,14 @@
+{
+	"arizona_pc": {
+		"status": true,
+		"info": "Проблема с ВК ботом"
+	},
+	"rodina_pc": {
+		"status": true,
+		"info": "Проблема с ВК ботом"
+	},
+	"arizona_mobile": {
+		"status": true,
+		"info": "Проблема с ВК ботом"
+	}
+}
